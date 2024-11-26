@@ -1,0 +1,9 @@
+name: 522_indv_2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas=2.2.2
+  - pandera=0.20.4
+  - python=3.12
+prefix: /Users/dongchunchen/miniforge3/envs/522_indv_2
